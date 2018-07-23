@@ -1,8 +1,0 @@
-C:\Users\usuario\source\repos\QDOT\QDOT.Interface\bin\Debug\netcoreapp2.0\QDOT.Domain.Interface.deps.json
-C:\Users\usuario\source\repos\QDOT\QDOT.Interface\bin\Debug\netcoreapp2.0\QDOT.Domain.Interface.dll
-C:\Users\usuario\source\repos\QDOT\QDOT.Interface\bin\Debug\netcoreapp2.0\QDOT.Domain.Interface.pdb
-C:\Users\usuario\source\repos\QDOT\QDOT.Interface\obj\Debug\netcoreapp2.0\QDOT.Domain.Interface.csproj.CoreCompileInputs.cache
-C:\Users\usuario\source\repos\QDOT\QDOT.Interface\obj\Debug\netcoreapp2.0\QDOT.Domain.Interface.AssemblyInfoInputs.cache
-C:\Users\usuario\source\repos\QDOT\QDOT.Interface\obj\Debug\netcoreapp2.0\QDOT.Domain.Interface.AssemblyInfo.cs
-C:\Users\usuario\source\repos\QDOT\QDOT.Interface\obj\Debug\netcoreapp2.0\QDOT.Domain.Interface.dll
-C:\Users\usuario\source\repos\QDOT\QDOT.Interface\obj\Debug\netcoreapp2.0\QDOT.Domain.Interface.pdb
