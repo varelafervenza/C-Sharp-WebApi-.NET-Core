@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\QDOT\QDOT.DataAccess\obj\Debug\netcoreapp2.0\QDOT.DataAccess.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\QDOT\QDOT.DataAccess\obj\Debug\netcoreapp2.0\QDOT.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\QDOT\QDOT.DataAccess\obj\Debug\netcoreapp2.0\QDOT.DataAccess.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\QDOT\QDOT.DataAccess\obj\Debug\netcoreapp2.0\QDOT.DataAccess.AssemblyInfo.cs
+C:\Users\usuario\source\repos\QDOT\QDOT.DataAccess\bin\Debug\netcoreapp2.0\QDOT.DataAccess.deps.json
+C:\Users\usuario\source\repos\QDOT\QDOT.DataAccess\bin\Debug\netcoreapp2.0\QDOT.DataAccess.dll
+C:\Users\usuario\source\repos\QDOT\QDOT.DataAccess\bin\Debug\netcoreapp2.0\QDOT.DataAccess.Interface.dll
+C:\Users\usuario\source\repos\QDOT\QDOT.DataAccess\bin\Debug\netcoreapp2.0\QDOT.DataAccess.Interface.pdb
+C:\Users\usuario\source\repos\QDOT\QDOT.DataAccess\obj\Debug\netcoreapp2.0\QDOT.DataAccess.csproj.CopyComplete
+C:\Users\usuario\source\repos\QDOT\QDOT.DataAccess\bin\Debug\netcoreapp2.0\QDOT.DataAccess.pdb
+C:\Users\usuario\source\repos\QDOT\QDOT.DataAccess\obj\Debug\netcoreapp2.0\QDOT.DataAccess.dll
+C:\Users\usuario\source\repos\QDOT\QDOT.DataAccess\obj\Debug\netcoreapp2.0\QDOT.DataAccess.pdb
+C:\Users\usuario\source\repos\QDOT\QDOT.DataAccess\bin\Debug\netcoreapp2.0\QDOT.Model.dll
+C:\Users\usuario\source\repos\QDOT\QDOT.DataAccess\bin\Debug\netcoreapp2.0\QDOT.Model.pdb

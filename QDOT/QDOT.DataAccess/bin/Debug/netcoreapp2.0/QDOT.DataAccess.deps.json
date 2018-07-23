@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "883f5ab0e357ef56d00e5851b3cee30b45ba651b"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "QDOT.DataAccess/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.2",
+          "QDOT.DataAccess.Interface": "1.0.0",
+          "QDOT.Model": "1.0.0"
+        },
+        "runtime": {
+          "QDOT.DataAccess.dll": {}
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "QDOT.DataAccess.Interface/1.0.0": {
+        "runtime": {
+          "QDOT.DataAccess.Interface.dll": {}
+        }
+      },
+      "QDOT.Model/1.0.0": {
+        "runtime": {
+          "QDOT.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QDOT.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    },
+    "QDOT.DataAccess.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QDOT.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

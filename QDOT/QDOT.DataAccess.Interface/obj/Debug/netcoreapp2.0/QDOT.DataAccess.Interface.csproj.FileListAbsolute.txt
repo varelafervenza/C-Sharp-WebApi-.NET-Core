@@ -1,0 +1,9 @@
+C:\Users\usuario\source\repos\QDOT\QDOT.DataAccess.Interface\bin\Debug\netcoreapp2.0\QDOT.DataAccess.Interface.deps.json
+C:\Users\usuario\source\repos\QDOT\QDOT.DataAccess.Interface\bin\Debug\netcoreapp2.0\QDOT.DataAccess.Interface.dll
+C:\Users\usuario\source\repos\QDOT\QDOT.DataAccess.Interface\bin\Debug\netcoreapp2.0\QDOT.DataAccess.Interface.pdb
+C:\Users\usuario\source\repos\QDOT\QDOT.DataAccess.Interface\obj\Debug\netcoreapp2.0\QDOT.DataAccess.Interface.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\QDOT\QDOT.DataAccess.Interface\obj\Debug\netcoreapp2.0\QDOT.DataAccess.Interface.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\QDOT\QDOT.DataAccess.Interface\obj\Debug\netcoreapp2.0\QDOT.DataAccess.Interface.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\QDOT\QDOT.DataAccess.Interface\obj\Debug\netcoreapp2.0\QDOT.DataAccess.Interface.AssemblyInfo.cs
+C:\Users\usuario\source\repos\QDOT\QDOT.DataAccess.Interface\obj\Debug\netcoreapp2.0\QDOT.DataAccess.Interface.dll
+C:\Users\usuario\source\repos\QDOT\QDOT.DataAccess.Interface\obj\Debug\netcoreapp2.0\QDOT.DataAccess.Interface.pdb

@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\QDOT\QDOT.Domain\obj\Debug\netcoreapp2.0\QDOT.Domain.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\QDOT\QDOT.Domain\obj\Debug\netcoreapp2.0\QDOT.Domain.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\QDOT\QDOT.Domain\obj\Debug\netcoreapp2.0\QDOT.Domain.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\QDOT\QDOT.Domain\obj\Debug\netcoreapp2.0\QDOT.Domain.AssemblyInfo.cs
+C:\Users\usuario\source\repos\QDOT\QDOT.Domain\bin\Debug\netcoreapp2.0\QDOT.Domain.deps.json
+C:\Users\usuario\source\repos\QDOT\QDOT.Domain\bin\Debug\netcoreapp2.0\QDOT.Domain.dll
+C:\Users\usuario\source\repos\QDOT\QDOT.Domain\bin\Debug\netcoreapp2.0\QDOT.Domain.Interface.dll
+C:\Users\usuario\source\repos\QDOT\QDOT.Domain\bin\Debug\netcoreapp2.0\QDOT.Domain.Interface.pdb
+C:\Users\usuario\source\repos\QDOT\QDOT.Domain\obj\Debug\netcoreapp2.0\QDOT.Domain.csproj.CopyComplete
+C:\Users\usuario\source\repos\QDOT\QDOT.Domain\bin\Debug\netcoreapp2.0\QDOT.Domain.pdb
+C:\Users\usuario\source\repos\QDOT\QDOT.Domain\bin\Debug\netcoreapp2.0\QDOT.DataAccess.Interface.dll
+C:\Users\usuario\source\repos\QDOT\QDOT.Domain\bin\Debug\netcoreapp2.0\QDOT.DataAccess.Interface.pdb
+C:\Users\usuario\source\repos\QDOT\QDOT.Domain\obj\Debug\netcoreapp2.0\QDOT.Domain.dll
+C:\Users\usuario\source\repos\QDOT\QDOT.Domain\obj\Debug\netcoreapp2.0\QDOT.Domain.pdb

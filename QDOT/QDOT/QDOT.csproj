@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\QDOT.DataAccess.Interface\QDOT.DataAccess.Interface.csproj" />
+    <ProjectReference Include="..\QDOT.DataAccess\QDOT.DataAccess.csproj" />
+    <ProjectReference Include="..\QDOT.Domain.Interface\QDOT.Domain.Interface.csproj" />
+    <ProjectReference Include="..\QDOT.Domain\QDOT.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
