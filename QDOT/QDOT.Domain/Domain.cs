@@ -18,14 +18,14 @@ namespace QDOT.Domain
             
         }
 
-        public T GetAllJson()
+        public T GetAll()
         {
             return dataAccess.GetAll();
         }
 
-        public T GetJsonFiltered()
+        public T GetFiltered(T developers)
         {
-            return dataAccess.GetFiltered();
+            return dataAccess.GetFiltered(developers);
         }
     }
 }

@@ -12,6 +12,7 @@ using Newtonsoft.Json.Linq;
 using QDOT.DataAccess.Interface;
 using QDOT.Domain;
 using QDOT.Domain.Interface;
+using QDOT.Model;
 
 namespace QDOT
 {
@@ -28,7 +29,7 @@ namespace QDOT
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddTransient(typeof(IDomain<>), typeof(Domain<>));
-            services.AddTransient(typeof(IDataAccess<JArray>), typeof(DataAccess.DataAccess));
+            services.AddTransient(typeof(IDataAccess<List<Developer>>), typeof(DataAccess.DataAccess));
             services.AddMvc();
         }
 

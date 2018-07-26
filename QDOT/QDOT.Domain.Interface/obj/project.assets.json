@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usuario\\source\\repos\\QDOT\\QDOT.Domain.Interface\\QDOT.Domain.Interface.csproj",
+      "projectUniqueName": "C:\\Users\\usuario\\Desktop\\Pruebas\\C-Sharp-WebApi-.NET-Core-master\\QDOT\\QDOT.Domain.Interface\\QDOT.Domain.Interface.csproj",
       "projectName": "QDOT.Domain.Interface",
-      "projectPath": "C:\\Users\\usuario\\source\\repos\\QDOT\\QDOT.Domain.Interface\\QDOT.Domain.Interface.csproj",
+      "projectPath": "C:\\Users\\usuario\\Desktop\\Pruebas\\C-Sharp-WebApi-.NET-Core-master\\QDOT\\QDOT.Domain.Interface\\QDOT.Domain.Interface.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usuario\\source\\repos\\QDOT\\QDOT.Domain.Interface\\obj\\",
+      "outputPath": "C:\\Users\\usuario\\Desktop\\Pruebas\\C-Sharp-WebApi-.NET-Core-master\\QDOT\\QDOT.Domain.Interface\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

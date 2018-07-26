@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usuario\\source\\repos\\QDOT\\QDOT.Model\\QDOT.Model.csproj",
+      "projectUniqueName": "C:\\Users\\usuario\\Desktop\\Pruebas\\C-Sharp-WebApi-.NET-Core-master\\QDOT\\QDOT.Model\\QDOT.Model.csproj",
       "projectName": "QDOT.Model",
-      "projectPath": "C:\\Users\\usuario\\source\\repos\\QDOT\\QDOT.Model\\QDOT.Model.csproj",
+      "projectPath": "C:\\Users\\usuario\\Desktop\\Pruebas\\C-Sharp-WebApi-.NET-Core-master\\QDOT\\QDOT.Model\\QDOT.Model.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usuario\\source\\repos\\QDOT\\QDOT.Model\\obj\\",
+      "outputPath": "C:\\Users\\usuario\\Desktop\\Pruebas\\C-Sharp-WebApi-.NET-Core-master\\QDOT\\QDOT.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,12 +1,10 @@
-﻿using System;
-
-
+﻿
 namespace QDOT.Domain.Interface
 {
     public interface IDomain<T>
     {
-        T GetAllJson();
+        T GetAll();
 
-        T GetJsonFiltered();
+        T GetFiltered(T developers);
     }
 }

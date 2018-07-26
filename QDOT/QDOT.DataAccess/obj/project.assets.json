@@ -740,11 +740,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usuario\\source\\repos\\QDOT\\QDOT.DataAccess\\QDOT.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\usuario\\Desktop\\Pruebas\\C-Sharp-WebApi-.NET-Core-master\\QDOT\\QDOT.DataAccess\\QDOT.DataAccess.csproj",
       "projectName": "QDOT.DataAccess",
-      "projectPath": "C:\\Users\\usuario\\source\\repos\\QDOT\\QDOT.DataAccess\\QDOT.DataAccess.csproj",
+      "projectPath": "C:\\Users\\usuario\\Desktop\\Pruebas\\C-Sharp-WebApi-.NET-Core-master\\QDOT\\QDOT.DataAccess\\QDOT.DataAccess.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usuario\\source\\repos\\QDOT\\QDOT.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\usuario\\Desktop\\Pruebas\\C-Sharp-WebApi-.NET-Core-master\\QDOT\\QDOT.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -763,11 +763,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\usuario\\source\\repos\\QDOT\\QDOT.DataAccess.Interface\\QDOT.DataAccess.Interface.csproj": {
-              "projectPath": "C:\\Users\\usuario\\source\\repos\\QDOT\\QDOT.DataAccess.Interface\\QDOT.DataAccess.Interface.csproj"
+            "C:\\Users\\usuario\\Desktop\\Pruebas\\C-Sharp-WebApi-.NET-Core-master\\QDOT\\QDOT.DataAccess.Interface\\QDOT.DataAccess.Interface.csproj": {
+              "projectPath": "C:\\Users\\usuario\\Desktop\\Pruebas\\C-Sharp-WebApi-.NET-Core-master\\QDOT\\QDOT.DataAccess.Interface\\QDOT.DataAccess.Interface.csproj"
             },
-            "C:\\Users\\usuario\\source\\repos\\QDOT\\QDOT.Model\\QDOT.Model.csproj": {
-              "projectPath": "C:\\Users\\usuario\\source\\repos\\QDOT\\QDOT.Model\\QDOT.Model.csproj"
+            "C:\\Users\\usuario\\Desktop\\Pruebas\\C-Sharp-WebApi-.NET-Core-master\\QDOT\\QDOT.Model\\QDOT.Model.csproj": {
+              "projectPath": "C:\\Users\\usuario\\Desktop\\Pruebas\\C-Sharp-WebApi-.NET-Core-master\\QDOT\\QDOT.Model\\QDOT.Model.csproj"
             }
           }
         }
